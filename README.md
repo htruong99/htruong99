@@ -1,7 +1,7 @@
-<h1 align="center">こんにちは 👋, フンと申します（フンくん）</h1>
+<h1 align="center">こんにちは 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htruong99&label=Profile%20views&color=0e75b6&style=flat" alt="htruong99" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/htruong99?style=social"> </p>
-
+- フンと申します　（フンくん）
 - 💬 Ask me about anything at [here](https://www.facebook.com/hung.tv99/)
 - 📫 How to reach me: htruong@netprotections.co.jp
 
