@@ -1,6 +1,6 @@
 <h1 align="center">こんにちは 👋, フンと申します（フンくん）</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TVHung&label=Profile%20views&color=0e75b6&style=flat" alt="TVHung" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/TVHung?style=social"> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=htruong99&label=Profile%20views&color=0e75b6&style=flat" alt="htruong99" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/htruong99?style=social"> </p>
 
 - 💬 Ask me about anything at [here](https://www.facebook.com/hung.tv99/)
 - 📫 How to reach me: htruong@netprotections.co.jp
